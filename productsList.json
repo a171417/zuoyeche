@@ -1,0 +1,27 @@
+
+[
+    {
+        "id" : "01",
+        "price" : 99,
+        "imgSrc" : "01.jpg",
+        "title" : "面膜"
+      },
+      {
+        "id" : "02",
+        "price" : 299,
+        "imgSrc" : "02.jpg",
+        "title" : "奶粉"
+      },
+      {
+        "id" : "03",
+        "price" : 9,
+        "imgSrc" : "03.jpg",
+        "title" : "书本"
+      },
+      {
+        "id" : "04",
+        "price" : 199,
+        "imgSrc" : "04.jpg",
+        "title" : "耳机"
+      }
+]
